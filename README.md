@@ -61,8 +61,8 @@ I am passionate about building practical solutions in **AI/ML, Cybersecurity, an
 
 ### 📫 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hetpateldev)
-- 📧 [Email](mailto:hetpatel.dev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/het-patel-3226a2398/)
+- 📧 [Email](mailto:phet97264@gmail.com)
 
 <p align="center">
   <em>⭐ Keeping the momentum going...</em>
