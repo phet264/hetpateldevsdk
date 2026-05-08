@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/phet264">
-    <img src="https://img.shields.io/github/followers/phet264?label=Follow&style=social" alt="Followers" />
-  </a>
   <img src="https://img.shields.io/badge/Status-Innovation_Driven-00ffaa?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-AI_%26_Security-7c5cfc?style=flat-square" alt="Focus" />
 </p>
@@ -59,14 +56,6 @@ I am passionate about building practical solutions in **AI/ML, Cybersecurity, an
 
 - **🛡️ VoiceShield AI**  
   *Advanced deepfake audio detection system using voice biometrics.*
-
----
-
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phet264&show_icons=true&theme=radical" alt="Het's Stats" />
-</p>
 
 ---
 
