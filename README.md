@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Dharmesh_Vekaria-IT_Student-7c5cfc?style=for-the-badge&logo=github&logoColor=white" alt="Dharmesh Vekaria" />
+  <img src="https://img.shields.io/badge/Het_Patel-IT_Student-7c5cfc?style=for-the-badge&logo=github&logoColor=white" alt="Het Patel" />
 </div>
 
-<h1 align="center">👋 Hey there! I'm Dharmesh Vekaria</h1>
+<h1 align="center">👋 Hey there! I'm Het Patel</h1>
 
 <p align="center">
   <strong>3rd Year Diploma IT Student | AI/ML | Cybersecurity | Cloud Computing</strong><br/>
@@ -65,15 +65,15 @@ I am passionate about building practical solutions in **AI/ML, Cybersecurity, an
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phet264&show_icons=true&theme=radical" alt="Dharmesh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phet264&show_icons=true&theme=radical" alt="Het's Stats" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hetpateldev)
+- 📧 [Email](mailto:hetpatel.dev@gmail.com)
 
 <p align="center">
   <em>⭐ Keeping the momentum going...</em>
